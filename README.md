@@ -1,4 +1,4 @@
-## Hi there! 👋
+
 ## Hi there! 👋
 
 I'm **Rakesh Kumar**, a passionate developer and data science enthusiast.  
@@ -21,7 +21,8 @@ My journey in tech is guided by a deep interest in how data and intelligent syst
   
 | Web | Version Control | Databases | Programming | ML & Tools |
 |------|-----------------|------------|--------------|-------------|
-| HTML | Git | PostgreSQL | Java | scikit-learn |
+| HTML | Git | PostgreSQL | Java <img width="689" height="497" alt="image" src="https://github.com/user-attachments/assets/c546bd6b-263d-4427-9607-3db36808e56e" />
+| scikit-learn |
 | CSS | GitHub | MongoDB | Python | R |
 | Gmail (API Integration) |  | MySQL |  |  |
 
